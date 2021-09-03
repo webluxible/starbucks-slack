@@ -1,0 +1,9 @@
+[submodule "starbucks-admin"]
+	path = starbucks-admin
+	url = git@github.com:webluxible/starbucks-admin.git
+[submodule "starbucks-slack-app"]
+	path = starbucks-slack-app
+	url = git@github.com:webluxible/starbucks-slack-app.git
+[submodule "starbucks-slack-api"]
+	path = starbucks-slack-api
+	url = git@github.com:webluxible/starbucks-slack-api.git
