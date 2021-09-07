@@ -2,12 +2,14 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
 
 **Features to be developed**
 
-* [ ] it's
-* [x] a sample
+* [ ] foo
+* [ ] bar
+* [ ] baz
+* [ ] qux
